@@ -23,5 +23,7 @@ class Song
     @@all << self
     self
   end
+  
+  def self.count
  
 end
