@@ -25,5 +25,7 @@ class Song
   end
   
   def self.count
+    @@all.size
+  end
  
 end
